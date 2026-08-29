@@ -1,0 +1,48 @@
+# Java build artifacts
+bin/
+target/
+out/
+*.class
+
+# Maven
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Gradle
+.gradle/
+build/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# Node.js
+node_modules/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Application-generated files
+inventory.txt
